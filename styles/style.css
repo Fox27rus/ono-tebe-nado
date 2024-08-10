@@ -249,6 +249,7 @@
     padding: 180px 50px 88px 50px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    font-size: 18px;
 }
 
 .footer-address {
@@ -259,14 +260,12 @@
     font-weight: normal;
     font-family: 'Raleway';
     font-style: normal;
-    font-size: 18px;
     line-height: 24px;
     letter-spacing: 0.01em;
 }
 
 .footer__menu {
     font-weight: 400;
-    font-size: 18px;
     line-height: 21px;
     text-align: center;
 }
