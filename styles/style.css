@@ -279,6 +279,7 @@
     display: flex;
     justify-self: end;
     gap: 48px;
+    
 }
 
 .footer__social-icon {
