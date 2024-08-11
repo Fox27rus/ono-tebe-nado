@@ -114,7 +114,7 @@
 }
 
 .bet-button {
-    font-family: inherit; 
+    font-family: 'Raleway', inherit; 
     width: 256px;
     height: 51px;
     color: #ffffff;
@@ -289,10 +289,6 @@
     gap: 48px;
     list-style: none;
     pointer-events: none;
-}
-
-.footer__social-link {
-    
 }
 
 .footer__social-icon {
